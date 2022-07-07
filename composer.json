@@ -1,5 +1,5 @@
 {
-	"name": "bigfish/paymentgateway",
+	"name": "pistej/paymentgateway",
 	"description": "BIG FISH Payment Gateway - PHP SDK",
 	"type": "library",
 	"keywords": ["payment", "ecommerce", "webshop"],
